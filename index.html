@@ -1,14 +1,181 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pagina inicial</title>
+    <title>Hardware e Periféricos</title>
     <link rel="stylesheet" href="styles.css">
-
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 </head>
 <body>
-    ola
-    
+    <div class="background"></div>
+    <div class="background-overlay"></div>
+
+    <div class="container">
+        <header>
+            <h1>Hardware e Periféricos</h1>
+            <nav>
+                <ul class="nav-menu">
+                    <li><a href="#memorias">Memórias</a></li>
+                    <li><a href="#perifericos">Periféricos</a></li>
+                    <li><a href="#bios">BIOS</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <section id="memorias">
+            <h2>Memórias do Computador</h2>
+            <div class="subsection">
+                <h3>Memória RAM</h3>
+                <ul>
+                    <li><strong>Características</strong>
+                        <ul>
+                            <li>Memória volátil</li>
+                            <li>Acesso rápido</li>
+                            <li>Armazenamento temporário</li>
+                            <li>Essencial para multitarefas</li>
+                        </ul>
+                    </li>
+                    <li><strong>Tipos</strong>
+                        <ul>
+                            <li>DDR3, DDR4, DDR5</li>
+                            <li>Diferentes velocidades</li>
+                            <li>Capacidades variadas</li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="subsection">
+                <h3>Memória ROM</h3>
+                <ul>
+                    <li><strong>Características</strong>
+                        <ul>
+                            <li>Memória não-volátil</li>
+                            <li>Somente leitura</li>
+                            <li>Armazena BIOS</li>
+                            <li>Instruções permanentes</li>
+                        </ul>
+                    </li>
+                    <li><strong>Tipos</strong>
+                        <ul>
+                            <li>PROM, EPROM</li>
+                            <li>EEPROM, Flash ROM</li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="perifericos">
+            <h2>Periféricos</h2>
+            <div class="subsection">
+                <h3>Periféricos de Entrada</h3>
+                <ul>
+                    <li><strong>Teclado</strong>
+                        <ul>
+                            <li>Tipos: Mecânico, Membrana</li>
+                            <li>Layouts: ABNT2, QWERTY</li>
+                            <li>Conexões: USB, Wireless</li>
+                        </ul>
+                    </li>
+                    <li><strong>Mouse</strong>
+                        <ul>
+                            <li>Tipos: Óptico, Laser</li>
+                            <li>DPI ajustável</li>
+                            <li>Conexões variadas</li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="subsection">
+                <h3>Periféricos de Saída</h3>
+                <ul>
+                    <li><strong>Monitor</strong>
+                        <ul>
+                            <li>Tecnologias: LCD, LED, OLED</li>
+                            <li>Resoluções: HD até 8K</li>
+                            <li>Taxa de atualização variável</li>
+                        </ul>
+                    </li>
+                    <li><strong>Impressora</strong>
+                        <ul>
+                            <li>Tipos: Jato de Tinta, Laser</li>
+                            <li>Funções: Mono, Colorida</li>
+                            <li>Conexões: USB, Rede</li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="bios">
+            <h2>BIOS</h2>
+            <div class="subsection">
+                <h3>Funções Principais</h3>
+                <ul>
+                    <li><strong>Inicialização</strong>
+                        <ul>
+                            <li>POST (Power-On Self-Test)</li>
+                            <li>Verificação de Hardware</li>
+                            <li>Carregamento do SO</li>
+                        </ul>
+                    </li>
+                    <li><strong>Configurações</strong>
+                        <ul>
+                            <li>Gerenciamento de Boot</li>
+                            <li>Configurações de Hardware</li>
+                            <li>Segurança do Sistema</li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="subsection">
+                <h3>Tipos de BIOS</h3>
+                <ul>
+                    <li><strong>BIOS Tradicional</strong>
+                        <ul>
+                            <li>Interface texto</li>
+                            <li>Limitações de hardware</li>
+                        </ul>
+                    </li>
+                    <li><strong>UEFI</strong>
+                        <ul>
+                            <li>Interface gráfica</li>
+                            <li>Recursos avançados</li>
+                            <li>Maior segurança</li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="manutencao">
+            <h2>Manutenção e Cuidados</h2>
+            <ul>
+                <li>Atualização regular de drivers</li>
+                <li>Limpeza física dos componentes</li>
+                <li>Backup de dados importantes</li>
+                <li>Monitoramento de temperatura</li>
+                <li>Verificação periódica de desempenho</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Recursos Adicionais</h2>
+            <div class="btn-container">
+                <a href="Périfericos.html" class="btn">Periféricos</a>
+                <a href="ROM,RAM e BIOS.html" class="btn">ROM, RAM e BIOS</a>
+                <a href="Teclado e Pilha.html" class="btn">Teclado e Pilha</a>
+            </div>
+        </section>
+    </div>
+
+    <footer>
+        <p>Desenvolvido para estudo de Hardware - 2024</p>
+    </footer>
 </body>
 </html>
