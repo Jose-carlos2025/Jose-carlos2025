@@ -1,4 +1,4 @@
-<h2 align="left">Olá, eu sou José Carlos Gomes <br> Aluno de progamação</h2>
+<h2 align="left">Hi, I'm José Carlos Gomes <br>Programming student</h2>
 
 
 ###
