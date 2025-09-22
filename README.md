@@ -1,36 +1,42 @@
-<h1 align="center">✨ Hi, I'm José Carlos Gomes ✨</h1>
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#6C63FF;">José Carlos Gomes</span>  
+</h1>
 <h3 align="center">💻 Programming Student | 🚀 Future Software Developer</h3>
 
 ---
 
+### 🎯 About Me
 <p align="center">
-  I'm passionate about software development and always learning new technologies.  
-  Currently exploring <strong>React</strong>, <strong>Node.js</strong>, <strong>Docker</strong>, while coding with  
+  <img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif">
+  Passionate about software development and always learning new technologies.  
+  Currently exploring <strong>React</strong>, <strong>Node.js</strong>, <strong>Docker</strong> while coding with  
   <strong>Python</strong>, <strong>HTML</strong> and <strong>VSCode</strong>.  
 </p>
 
 ---
 
-### 🔧 Tech Stack & Tools
+### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-339933?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tools-Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markup-HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,react,nodejs,docker,html,css,js,vscode,git,github" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jose-carlos2025&show_icons=true&theme=radical&hide_border=false&rank_icon=github" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jose-carlos2025&layout=compact&langs_count=8&theme=radical&hide_border=false" height="160" alt="languages graph" />
+  
+  ![Stats](https://github-readme-stats.vercel.app/api?username=Jose-carlos2025&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)  
+  ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-carlos2025&layout=compact&theme=tokyonight&hide_border=true)  
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Jose-carlos2025&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 </div>
 
+---
+
+### 📈 Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jose-carlos2025&theme=tokyo-night&area=true" height="300" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jose-carlos2025&theme=github-compact&area=true&radius=10" height="280"/>
 </div>
 
 ---
@@ -38,28 +44,35 @@
 ### 🚀 Featured Projects
 <p align="center">
   <a href="https://github.com/Jose-carlos2025/my-awesome-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-carlos2025&repo=my-awesome-project&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-carlos2025&repo=my-awesome-project&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/Jose-carlos2025/another-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-carlos2025&repo=another-project&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-carlos2025&repo=another-project&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 ---
 
-### 🌐 Connect With Me
+### 📬 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/josecarlosgomes" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="mailto:josecarlos.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://github.com/Jose-carlos2025">
-    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-⭐️ From [Jose-carlos2025](https://github.com/Jose-carlos2025)
+### 🎶 Fun Touch
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31dzyfr4a2m7v52gkfjjsa7tnnhe&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true" />
+</p>
+
+---
+
+⭐ From [**Jose-carlos2025**](https://github.com/Jose-carlos2025)
